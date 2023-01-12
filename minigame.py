@@ -1,4 +1,4 @@
-#  minigame
+#  minigame_
 from random import *
 from math import ceil
 d = randint(1, 100)
